@@ -1,0 +1,7 @@
+{
+  "name": "SquaredTech Voice Receptionist",
+  "description": "Adaeze, the AI voice receptionist for SquaredTech LTD.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
